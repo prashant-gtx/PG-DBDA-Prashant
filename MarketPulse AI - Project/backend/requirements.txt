@@ -1,0 +1,10 @@
+fastapi
+uvicorn
+requests
+beautifulsoup4
+torch
+transformers
+google-generativeai
+yfinance
+python-dotenv
+pandas
