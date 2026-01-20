@@ -1,5 +1,413 @@
 [
     {
+        "headline": "Shadowfax leans on value-added services as it takes on a crowded logistics market",
+        "link": "https://www.moneycontrol.com/news/business/ipo/shadowfax-leans-on-value-added-services-as-it-takes-on-a-crowded-logistics-market-13781589.html",
+        "image_url": null,
+        "timestamp": "2026-01-20 15:26:06",
+        "sentiment": "neutral",
+        "sentiment_score": 0.8443211913108826
+    },
+    {
+        "headline": "What ‘Arirang’ means and why BTS chose it for their comeback album?",
+        "link": "https://www.moneycontrol.com/news/business/what-arirang-means-and-why-bts-chose-it-for-their-comeback-album-13781474.html",
+        "image_url": "https://images.moneycontrol.com/static-mcnews/2026/01/20260102054751_btscollage-770x433.jpg?impolicy=website&width=135&height=80",
+        "timestamp": "2026-01-20 15:26:07",
+        "sentiment": "neutral",
+        "sentiment_score": 0.9393028020858765
+    },
+    {
+        "headline": "Jana Nayagan Row: CBFC calls 14 cuts an ‘intermediary step’, raises doubts over Rs 500 crore budget claim",
+        "link": "https://www.moneycontrol.com/news/business/jana-nayagan-row-cbfc-calls-14-cuts-an-intermediary-step-raises-doubts-over-rs-500-crore-budget-claim-13781396.html",
+        "image_url": null,
+        "timestamp": "2026-01-20 15:21:42",
+        "sentiment": "negative",
+        "sentiment_score": 0.9476869106292725
+    },
+    {
+        "headline": "K-Pop group EXO returns with eighth studio album “REVERXE” after years-long hiatus",
+        "link": "https://www.moneycontrol.com/news/business/k-pop-group-exo-returns-with-eighth-studio-album-reverxe-after-years-long-hiatus-13781406.html",
+        "image_url": null,
+        "timestamp": "2026-01-20 15:17:07",
+        "sentiment": "positive",
+        "sentiment_score": 0.8269304037094116
+    },
+    {
+        "headline": "AI is no longer equal to Nvidia and its dominance is being challenged: Cerebras CEO Andrew Feldman at Davos",
+        "link": "https://www.moneycontrol.com/news/business/startup/ai-is-no-longer-equal-to-nvidia-and-its-dominance-is-being-challenged-cerebras-ceo-andrew-feldman-at-davos-13781404.html",
+        "image_url": null,
+        "timestamp": "2026-01-20 15:12:09",
+        "sentiment": "neutral",
+        "sentiment_score": 0.8775725364685059
+    },
+    {
+        "headline": "Property developer K Raheja said to weigh $700 million IPO",
+        "link": "https://www.moneycontrol.com/news/business/ipo/property-developer-k-raheja-said-to-weigh-700-million-ipo-13781541.html",
+        "image_url": null,
+        "timestamp": "2026-01-20 15:07:45",
+        "sentiment": "neutral",
+        "sentiment_score": 0.9169127941131592
+    },
+    {
+        "headline": "Buy or rent after 40? Why school fees and ageing parents change the housing math",
+        "link": "https://www.moneycontrol.com/news/business/personal-finance/buy-or-rent-after-40-why-school-fees-and-ageing-parents-change-the-housing-math-13781259.html",
+        "image_url": null,
+        "timestamp": "2026-01-20 15:03:16",
+        "sentiment": "neutral",
+        "sentiment_score": 0.5429050922393799
+    },
+    {
+        "headline": "Moneycontrol Pro Panorama | Metals on a roll, how should you invest?",
+        "link": "https://www.moneycontrol.com/news/business/economy/moneycontrol-pro-panorama-metals-on-a-roll-how-should-you-invest-13780905.html",
+        "image_url": "https://images.moneycontrol.com/static-mcnews/2018/03/Metals-770x433.png?impolicy=website&width=135&height=80",
+        "timestamp": "2026-01-20 15:03:16",
+        "sentiment": "neutral",
+        "sentiment_score": 0.9314219951629639
+    },
+    {
+        "headline": "Live: Nifty falls over 300 pts in 2 sessions, all sectors sulk in red | Closing Bell",
+        "link": "https://www.moneycontrol.com/news/videos/business/markets/live-nifty-falls-over-300-pts-in-2-sessions-all-sectors-sulk-in-red-closing-bell-13781467.html",
+        "image_url": "https://images.moneycontrol.com/static-mcnews/2026/01/20260120091103_Closing-Bell-with-2-guest-TT-20-Jan-4K-770x433.jpg?impolicy=website&width=135&height=80",
+        "timestamp": "2026-01-20 15:03:16",
+        "sentiment": "negative",
+        "sentiment_score": 0.9454370737075806
+    },
+    {
+        "headline": "Davos 2026: Long-time India fan Siemens sees huge AI data centre opportunity, says Cedric Naike",
+        "link": "https://www.moneycontrol.com/technology/davos-2026-long-time-india-fan-siemens-sees-huge-ai-data-centre-opportunity-says-cedric-naike-article-13781313.html",
+        "image_url": null,
+        "timestamp": "2026-01-20 14:58:34",
+        "sentiment": "positive",
+        "sentiment_score": 0.8970171809196472
+    },
+    {
+        "headline": "How To Get Low Interest Rates And Charges On Your Personal Loan",
+        "link": "https://www.moneycontrol.com/news/business/personal-finance/how-to-get-low-interest-rates-and-charges-on-your-personal-loan-13780851.html",
+        "image_url": null,
+        "timestamp": "2026-01-20 14:49:23",
+        "sentiment": "neutral",
+        "sentiment_score": 0.9246614575386047
+    },
+    {
+        "headline": "PhonePe gets SEBI nod for India's second largest fintech IPO, likely to seek $15-billion valuation",
+        "link": "https://www.moneycontrol.com/technology/phonepe-gets-sebi-nod-for-india-s-second-largest-fintech-ipo-likely-to-seek-15-billion-valuation-article-13781450.html",
+        "image_url": "https://images.moneycontrol.com/static-mcnews/2023/08/Collage-Maker-08-Aug-2023-09-52-AM-8608-770x433.jpg?impolicy=website&width=135&height=80",
+        "timestamp": "2026-01-20 14:49:23",
+        "sentiment": "neutral",
+        "sentiment_score": 0.6930160522460938
+    },
+    {
+        "headline": "Silver demand steady despite high prices, says Hindustan Zinc  CEO",
+        "link": "https://www.moneycontrol.com/news/business/silver-demand-steady-despite-high-prices-says-hindustan-zinc-ceo-13780894.html",
+        "image_url": "https://images.moneycontrol.com/static-mcnews/2026/01/20260119081950_Silver-Crosses-Rs-3-Lakh-Mark-770x431.png?impolicy=website&width=135&height=80",
+        "timestamp": "2026-01-20 14:49:23",
+        "sentiment": "positive",
+        "sentiment_score": 0.9460300207138062
+    },
+    {
+        "headline": "Wingify’s VWO and AB Tasty announce merger, to build $100 million-plus digital experience platform",
+        "link": "https://www.moneycontrol.com/news/business/startup/wingify-s-vwo-and-ab-tasty-announce-merger-to-build-100-million-plus-digital-experience-platform-13781361.html",
+        "image_url": "https://images.moneycontrol.com/static-mcnews/2026/01/20260120084727_Wingify-AB-Tasty-Everstone-Team-653x435.png?impolicy=website&width=135&height=80",
+        "timestamp": "2026-01-20 14:49:23",
+        "sentiment": "positive",
+        "sentiment_score": 0.5857754349708557
+    },
+    {
+        "headline": "Gold ETFs surge up to 9% to fresh record highs as yellow metal’s Feb futures cross Rs 1.5 lakh/10 grams: What lies ahead?",
+        "link": "https://www.moneycontrol.com/news/business/markets/gold-etfs-surge-up-to-9-to-fresh-record-highs-as-yellow-metal-s-feb-futures-cross-rs-1-5-lakh-10-grams-what-lies-ahead-13781480.html",
+        "image_url": "https://images.moneycontrol.com/static-mcnews/2025/12/20251230165920_Untitled-design-770x433.jpg?impolicy=website&width=135&height=80",
+        "timestamp": "2026-01-20 14:49:23",
+        "sentiment": "positive",
+        "sentiment_score": 0.5428704619407654
+    },
+    {
+        "headline": "5 alarming risks of keeping a room heater on while you sleep",
+        "link": "https://www.moneycontrol.com/news/photos/business/5-alarming-risks-of-keeping-a-room-heater-on-while-you-sleep-13781103.html",
+        "image_url": null,
+        "timestamp": "2026-01-20 14:44:52",
+        "sentiment": "neutral",
+        "sentiment_score": 0.5276526212692261
+    },
+    {
+        "headline": "Evolution of Union Budget in India: Key milestones from Black Budget to GST era",
+        "link": "https://www.moneycontrol.com/news/business/evolution-of-union-budget-in-india-key-milestones-from-black-budget-to-gst-era-13781307.html",
+        "image_url": null,
+        "timestamp": "2026-01-20 14:31:28",
+        "sentiment": "positive",
+        "sentiment_score": 0.6620544791221619
+    },
+    {
+        "headline": "N Chandrasekaran, Salil Parekh, 5 other Indian CEOs to be part of Trump reception at Davos",
+        "link": "https://www.moneycontrol.com/news/india/n-chandrasekaran-salil-parekh-5-other-indian-ceos-to-be-part-of-trump-reception-at-davos-13781390.html",
+        "image_url": "https://images.moneycontrol.com/static-mcnews/2025/01/20250130134608_davos-2025-770x433.jpg?impolicy=website&width=135&height=80",
+        "timestamp": "2026-01-20 14:31:28",
+        "sentiment": "neutral",
+        "sentiment_score": 0.934471845626831
+    },
+    {
+        "headline": "Budget 2026: Tax relief for married couples? What joint taxation could mean for your taxes",
+        "link": "https://www.moneycontrol.com/news/business/personal-finance/budget-2026-tax-relief-for-married-couples-what-joint-taxation-could-mean-for-your-taxes-13780870.html",
+        "image_url": "https://images.moneycontrol.com/static-mcnews/2025/09/20250929102947_2-770x433.jpg?impolicy=website&width=135&height=80",
+        "timestamp": "2026-01-20 14:15:17",
+        "sentiment": "neutral",
+        "sentiment_score": 0.9149476885795593
+    },
+    {
+        "headline": "Struggling to repay a personal loan? Five smart moves to prevent legal escalation",
+        "link": "https://www.moneycontrol.com/news/business/personal-finance/struggling-to-repay-a-personal-loan-five-smart-moves-to-prevent-legal-escalation-13781160.html",
+        "image_url": null,
+        "timestamp": "2026-01-20 14:06:25",
+        "sentiment": "neutral",
+        "sentiment_score": 0.5705539584159851
+    },
+    {
+        "headline": "Budget can boost renewable energy push by incentivising grid strengthening and storage",
+        "link": "https://www.moneycontrol.com/news/opinion/budget-can-boost-renewable-energy-push-by-incentivising-grid-strengthening-and-storage-13780958.html",
+        "image_url": "https://images.moneycontrol.com/static-mcnews/2019/01/China-renewable-power-770x433.jpg?impolicy=website&width=135&height=80",
+        "timestamp": "2026-01-20 14:06:26",
+        "sentiment": "positive",
+        "sentiment_score": 0.8576304912567139
+    },
+    {
+        "headline": "Materials science startup Whizzo raises $15 million in Series A led by Fundamentum",
+        "link": "https://www.moneycontrol.com/news/business/startup/materials-science-startup-whizzo-raises-15-million-in-series-a-led-by-fundamentum-13781258.html",
+        "image_url": "https://images.moneycontrol.com/static-mcnews/2026/01/20260120081117_Shrestha-Kukreja-702x435.jpeg?impolicy=website&width=135&height=80",
+        "timestamp": "2026-01-20 14:06:26",
+        "sentiment": "positive",
+        "sentiment_score": 0.49556881189346313
+    },
+    {
+        "headline": "NPS explained: How to choose the best pension fund managers?",
+        "link": "https://www.moneycontrol.com/news/business/personal-finance/nps-explained-how-to-choose-the-best-pension-fund-managers-13779720.html",
+        "image_url": "https://images.moneycontrol.com/static-mcnews/2026/01/20260119163504_NPS-Explained-770x433.jpg?impolicy=website&width=135&height=80",
+        "timestamp": "2026-01-20 14:06:26",
+        "sentiment": "neutral",
+        "sentiment_score": 0.9258472919464111
+    },
+    {
+        "headline": "Restaurant Brands Asia shares fall 7% from day's high as Ajanta Pharma says report of buying stake as 'incorrect'",
+        "link": "https://www.moneycontrol.com/news/business/markets/restaurant-brands-asia-shares-fall-7-from-day-s-high-as-ajanta-pharma-says-report-of-buying-stake-as-incorrect-13781216.html",
+        "image_url": "https://images.moneycontrol.com/static-mcnews/2026/01/20260119104046_burger-king-770x435.jpg?impolicy=website&width=135&height=80",
+        "timestamp": "2026-01-20 14:06:26",
+        "sentiment": "negative",
+        "sentiment_score": 0.9710704684257507
+    },
+    {
+        "headline": "Budget 2026: Tax relief for married couples? What joint taxation could mean for your taxes",
+        "link": "https://www.moneycontrol.com/news/business/budget-2026-tax-relief-for-married-couples-what-joint-taxation-could-mean-for-your-taxes-13780870.html",
+        "image_url": "https://images.moneycontrol.com/static-mcnews/2025/09/20250929102947_2-770x433.jpg?impolicy=website&width=135&height=80",
+        "timestamp": "2026-01-20 14:06:26",
+        "sentiment": "neutral",
+        "sentiment_score": 0.9149476885795593
+    },
+    {
+        "headline": "Broader markets extend losses, fall up to 1.7%: Nifty Midcap 100 goes below 100-DMA; Ola, Oberoi Realty among top losers",
+        "link": "https://www.moneycontrol.com/news/business/markets/broader-markets-extend-losses-fall-up-to-1-7-nifty-midcap-100-goes-below-100-dma-ola-oberoi-realty-among-top-losers-13780937.html",
+        "image_url": "https://images.moneycontrol.com/static-mcnews/2026/01/20260119075729_market_down_Sensex-Nifty1-770x433.jpg?impolicy=website&width=135&height=80",
+        "timestamp": "2026-01-20 14:06:26",
+        "sentiment": "negative",
+        "sentiment_score": 0.9733859300613403
+    },
+    {
+        "headline": "Bank Nifty extends decline for 2nd day; PSU bank index falls 1.2%: What should investors do?",
+        "link": "https://www.moneycontrol.com/news/business/markets/bank-nifty-extends-decline-for-2nd-day-psu-bank-index-falls-1-2-what-should-investors-do-13781165.html",
+        "image_url": "https://images.moneycontrol.com/static-mcnews/2025/07/20250718062446_Nifty-Bank-770x433.jpg?impolicy=website&width=135&height=80",
+        "timestamp": "2026-01-20 14:06:26",
+        "sentiment": "negative",
+        "sentiment_score": 0.9265742897987366
+    },
+    {
+        "headline": "Comfort Fincap Consolidated December 2025 Net Sales at Rs 4.52 crore, up 47.25% Y-o-Y",
+        "link": "https://www.moneycontrol.com/news/business/earnings/comfort-fincap-consolidated-december-2025-net-sales-at-rs-4-52-crore-up-47-25-y-o-y-13781226.html",
+        "image_url": "https://images.moneycontrol.com/static-mcnews/2017/04/shutterstock_310523045-462x435.jpg?impolicy=website&width=135&height=80",
+        "timestamp": "2026-01-20 14:06:26",
+        "sentiment": "positive",
+        "sentiment_score": 0.9497433304786682
+    },
+    {
+        "headline": "Anand Rathi Consolidated December 2025 Net Sales at Rs 248.20 crore, up 21.45% Y-o-Y",
+        "link": "https://www.moneycontrol.com/news/business/earnings/anand-rathi-consolidated-december-2025-net-sales-at-rs-248-20-crore-up-21-45-y-o-y-13781224.html",
+        "image_url": "https://images.moneycontrol.com/static-mcnews/2017/04/shutterstock_310523045-462x435.jpg?impolicy=website&width=135&height=80",
+        "timestamp": "2026-01-20 14:06:26",
+        "sentiment": "positive",
+        "sentiment_score": 0.9506130814552307
+    },
+    {
+        "headline": "Emerald Finance Consolidated December 2025 Net Sales at Rs 7.80 crore, up 36.31% Y-o-Y",
+        "link": "https://www.moneycontrol.com/news/business/earnings/emerald-finance-consolidated-december-2025-net-sales-at-rs-7-80-crore-up-36-31-y-o-y-13781223.html",
+        "image_url": "https://images.moneycontrol.com/static-mcnews/2017/04/shutterstock_310523045-462x435.jpg?impolicy=website&width=135&height=80",
+        "timestamp": "2026-01-20 14:06:26",
+        "sentiment": "positive",
+        "sentiment_score": 0.9483116865158081
+    },
+    {
+        "headline": "Nitin Fire Prot Consolidated December 2025 Net Sales at Rs 7.11 crore, up 4.85% Y-o-Y",
+        "link": "https://www.moneycontrol.com/news/business/earnings/nitin-fire-prot-consolidated-december-2025-net-sales-at-rs-7-11-crore-up-4-85-y-o-y-13781237.html",
+        "image_url": "https://images.moneycontrol.com/static-mcnews/2017/04/shutterstock_310523045-462x435.jpg?impolicy=website&width=135&height=80",
+        "timestamp": "2026-01-20 14:06:26",
+        "sentiment": "positive",
+        "sentiment_score": 0.9512439966201782
+    },
+    {
+        "headline": "DB Corp Consolidated December 2025 Net Sales at Rs 605.27 crore, down 5.82% Y-o-Y",
+        "link": "https://www.moneycontrol.com/news/business/earnings/db-corp-consolidated-december-2025-net-sales-at-rs-605-27-crore-down-5-82-y-o-y-13781236.html",
+        "image_url": "https://images.moneycontrol.com/static-mcnews/2017/04/shutterstock_310523045-462x435.jpg?impolicy=website&width=135&height=80",
+        "timestamp": "2026-01-20 14:06:26",
+        "sentiment": "negative",
+        "sentiment_score": 0.9738735556602478
+    },
+    {
+        "headline": "Menon Bearings Consolidated December 2025 Net Sales at Rs 76.91 crore, up 31.72% Y-o-Y",
+        "link": "https://www.moneycontrol.com/news/business/earnings/menon-bearings-consolidated-december-2025-net-sales-at-rs-76-91-crore-up-31-72-y-o-y-13781222.html",
+        "image_url": "https://images.moneycontrol.com/static-mcnews/2017/04/shutterstock_310523045-462x435.jpg?impolicy=website&width=135&height=80",
+        "timestamp": "2026-01-20 14:06:26",
+        "sentiment": "positive",
+        "sentiment_score": 0.9507731795310974
+    },
+    {
+        "headline": "Network 18 Consolidated December 2025 Net Sales at Rs 539.37 crore, down 60.36% Y-o-Y",
+        "link": "https://www.moneycontrol.com/news/business/earnings/network-18-consolidated-december-2025-net-sales-at-rs-539-37-crore-down-60-36-y-o-y-13781235.html",
+        "image_url": "https://images.moneycontrol.com/static-mcnews/2017/04/shutterstock_310523045-462x435.jpg?impolicy=website&width=135&height=80",
+        "timestamp": "2026-01-20 14:06:26",
+        "sentiment": "negative",
+        "sentiment_score": 0.9751020669937134
+    },
+    {
+        "headline": "Poonawalla Fin Consolidated December 2025 Net Sales at Rs 1,818.42 crore, up 72.03% Y-o-Y",
+        "link": "https://www.moneycontrol.com/news/business/earnings/poonawalla-fin-consolidated-december-2025-net-sales-at-rs-1818-42-crore-up-72-03-y-o-y-13781221.html",
+        "image_url": "https://images.moneycontrol.com/static-mcnews/2017/04/shutterstock_310523045-462x435.jpg?impolicy=website&width=135&height=80",
+        "timestamp": "2026-01-20 14:06:26",
+        "sentiment": "positive",
+        "sentiment_score": 0.9496325850486755
+    },
+    {
+        "headline": "360 ONE WAM Consolidated December 2025 Net Sales at Rs 1,181.48 crore, up 55.49% Y-o-Y",
+        "link": "https://www.moneycontrol.com/news/business/earnings/360-one-wam-consolidated-december-2025-net-sales-at-rs-1181-48-crore-up-55-49-y-o-y-13781234.html",
+        "image_url": "https://images.moneycontrol.com/static-mcnews/2017/04/shutterstock_310523045-462x435.jpg?impolicy=website&width=135&height=80",
+        "timestamp": "2026-01-20 14:06:26",
+        "sentiment": "positive",
+        "sentiment_score": 0.9507327675819397
+    },
+    {
+        "headline": "Polycab Consolidated December 2025 Net Sales at Rs 7,636.13 crore, up 46.12% Y-o-Y",
+        "link": "https://www.moneycontrol.com/news/business/earnings/polycab-consolidated-december-2025-net-sales-at-rs-7636-13-crore-up-46-12-y-o-y-13781219.html",
+        "image_url": "https://images.moneycontrol.com/static-mcnews/2017/04/shutterstock_310523045-462x435.jpg?impolicy=website&width=135&height=80",
+        "timestamp": "2026-01-20 14:06:26",
+        "sentiment": "positive",
+        "sentiment_score": 0.9518367648124695
+    },
+    {
+        "headline": "Angel One Consolidated December 2025 Net Sales at Rs 1,334.90 crore, up 5.76% Y-o-Y",
+        "link": "https://www.moneycontrol.com/news/business/earnings/angel-one-consolidated-december-2025-net-sales-at-rs-1334-90-crore-up-5-76-y-o-y-13781233.html",
+        "image_url": "https://images.moneycontrol.com/static-mcnews/2017/04/shutterstock_310523045-462x435.jpg?impolicy=website&width=135&height=80",
+        "timestamp": "2026-01-20 14:06:26",
+        "sentiment": "positive",
+        "sentiment_score": 0.9515460133552551
+    },
+    {
+        "headline": "Delta Corp Consolidated December 2025 Net Sales at Rs 160.28 crore, down 17.52% Y-o-Y",
+        "link": "https://www.moneycontrol.com/news/business/earnings/delta-corp-consolidated-december-2025-net-sales-at-rs-160-28-crore-down-17-52-y-o-y-13781218.html",
+        "image_url": "https://images.moneycontrol.com/static-mcnews/2017/04/shutterstock_310523045-462x435.jpg?impolicy=website&width=135&height=80",
+        "timestamp": "2026-01-20 14:06:26",
+        "sentiment": "negative",
+        "sentiment_score": 0.9739332795143127
+    },
+    {
+        "headline": "HDFC Life Consolidated December 2025 Net Sales at Rs 29,427.61 crore, up 70.1% Y-o-Y",
+        "link": "https://www.moneycontrol.com/news/business/earnings/hdfc-life-consolidated-december-2025-net-sales-at-rs-29427-61-crore-up-70-1-y-o-y-13781232.html",
+        "image_url": "https://images.moneycontrol.com/static-mcnews/2017/04/shutterstock_310523045-462x435.jpg?impolicy=website&width=135&height=80",
+        "timestamp": "2026-01-20 14:06:26",
+        "sentiment": "positive",
+        "sentiment_score": 0.9473784565925598
+    },
+    {
+        "headline": "HDFC AMC Consolidated December 2025 Net Sales at Rs 1,075.10 crore, up 15.03% Y-o-Y",
+        "link": "https://www.moneycontrol.com/news/business/earnings/hdfc-amc-consolidated-december-2025-net-sales-at-rs-1075-10-crore-up-15-03-y-o-y-13781231.html",
+        "image_url": "https://images.moneycontrol.com/static-mcnews/2017/04/shutterstock_310523045-462x435.jpg?impolicy=website&width=135&height=80",
+        "timestamp": "2026-01-20 14:06:26",
+        "sentiment": "positive",
+        "sentiment_score": 0.9519641399383545
+    },
+    {
+        "headline": "Comfort Intech Consolidated December 2025 Net Sales at Rs 61.37 crore, up 32.94% Y-o-Y",
+        "link": "https://www.moneycontrol.com/news/business/earnings/comfort-intech-consolidated-december-2025-net-sales-at-rs-61-37-crore-up-32-94-y-o-y-13781230.html",
+        "image_url": "https://images.moneycontrol.com/static-mcnews/2017/04/shutterstock_310523045-462x435.jpg?impolicy=website&width=135&height=80",
+        "timestamp": "2026-01-20 14:06:26",
+        "sentiment": "positive",
+        "sentiment_score": 0.9504864811897278
+    },
+    {
+        "headline": "Buy Nuvoco Vistas Corporation; target of Rs 443: Prabhudas Lilladher",
+        "link": "https://www.moneycontrol.com/news/business/stocks/buy-nuvoco-vistas-corporation-target-of-rs-443-prabhudas-lilladher-13781092.html",
+        "image_url": "https://images.moneycontrol.com/static-mcnews/2025/11/20251117070414_Buy.png?impolicy=website&width=135&height=80",
+        "timestamp": "2026-01-20 14:06:26",
+        "sentiment": "neutral",
+        "sentiment_score": 0.9133193492889404
+    },
+    {
+        "headline": "Buy Polycab India; target of Rs 9744: Prabhudas Lilladher",
+        "link": "https://www.moneycontrol.com/news/business/stocks/buy-polycab-india-target-of-rs-9744-prabhudas-lilladher-13781091.html",
+        "image_url": "https://images.moneycontrol.com/static-mcnews/2025/11/20251118070809_Buy_1280x720_3-770x433.png?impolicy=website&width=135&height=80",
+        "timestamp": "2026-01-20 14:06:26",
+        "sentiment": "neutral",
+        "sentiment_score": 0.9038528800010681
+    },
+    {
+        "headline": "India likely to ease China curbs on investment, procurement as policy rethink gains steam",
+        "link": "https://www.moneycontrol.com/news/business/economy/india-likely-to-ease-china-curbs-on-investment-procurement-as-policy-rethink-gains-steam-13780840.html",
+        "image_url": null,
+        "timestamp": "2026-01-20 13:04:11",
+        "sentiment": "positive",
+        "sentiment_score": 0.8895395398139954
+    },
+    {
+        "headline": "Gold tops $4,700 as Greenland tensions fuel trade war fears",
+        "link": "https://www.moneycontrol.com/news/business/commodities/gold-tops-4-700-as-greenland-tensions-fuel-trade-war-fears-13780964.html",
+        "image_url": null,
+        "timestamp": "2026-01-20 12:59:50",
+        "sentiment": "negative",
+        "sentiment_score": 0.5581886172294617
+    },
+    {
+        "headline": "Davos is about networking and learning, not just MoUs: Maharashtra CM Devendra Fadnavis",
+        "link": "https://www.moneycontrol.com/news/business/davos-summit/davos-is-about-networking-and-learning-not-just-mous-maharashtra-cm-devendra-fadnavis-13780861.html",
+        "image_url": "https://images.moneycontrol.com/static-mcnews/2026/01/20260119175515_fadnavis-new-Davos-770x433.png?impolicy=website&width=135&height=80",
+        "timestamp": "2026-01-20 12:59:50",
+        "sentiment": "neutral",
+        "sentiment_score": 0.9246561527252197
+    },
+    {
+        "headline": "Hold Wipro; target of Rs 260: Prabhudas Lilladher",
+        "link": "https://www.moneycontrol.com/news/business/stocks/hold-wipro-target-of-rs-260-prabhudas-lilladher-3-13781010.html",
+        "image_url": "https://images.moneycontrol.com/static-mcnews/2025/11/20251117070224_hold-3.jpg?impolicy=website&width=135&height=80",
+        "timestamp": "2026-01-20 12:59:50",
+        "sentiment": "neutral",
+        "sentiment_score": 0.9414550065994263
+    },
+    {
+        "headline": "Hold Tata Technologies; target of Rs 660: Prabhudas Lilladher",
+        "link": "https://www.moneycontrol.com/news/business/stocks/hold-tata-technologies-target-of-rs-660-prabhudas-lilladher-13781009.html",
+        "image_url": "https://images.moneycontrol.com/static-mcnews/2025/11/20251117070224_hold-3.jpg?impolicy=website&width=135&height=80",
+        "timestamp": "2026-01-20 12:59:50",
+        "sentiment": "neutral",
+        "sentiment_score": 0.9385652542114258
+    },
+    {
+        "headline": "Hold BHEL; target of Rs 245: Prabhudas Lilladher",
+        "link": "https://www.moneycontrol.com/news/business/stocks/hold-bhel-target-of-rs-245-prabhudas-lilladher-13781008.html",
+        "image_url": "https://images.moneycontrol.com/static-mcnews/2025/11/20251117070148_hold-2.jpg?impolicy=website&width=135&height=80",
+        "timestamp": "2026-01-20 12:59:50",
+        "sentiment": "neutral",
+        "sentiment_score": 0.9274262189865112
+    },
+    {
+        "headline": "Hold LTIMindtree; target of Rs 6000: Prabhudas Lilladher",
+        "link": "https://www.moneycontrol.com/news/business/stocks/hold-ltimindtree-target-of-rs-6000-prabhudas-lilladher-13781007.html",
+        "image_url": "https://images.moneycontrol.com/static-mcnews/2025/11/20251117070236_hold-1.jpg?impolicy=website&width=135&height=80",
+        "timestamp": "2026-01-20 12:59:50",
+        "sentiment": "neutral",
+        "sentiment_score": 0.9352315664291382
+    },
+    {
         "headline": "From capex to tax reform: 5 key things to expect from Budget 2026",
         "link": "https://www.moneycontrol.com/news/business/from-capex-to-tax-reform-5-key-things-to-expect-from-budget-2026-13781003.html",
         "image_url": null,
