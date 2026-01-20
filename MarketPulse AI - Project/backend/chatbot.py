@@ -26,14 +26,22 @@ def get_chat_response(user_query):
 
     # Get context from latest news
     news = get_latest_news()
-    # Create a summary context from the top 5 news items
-    context = "Here is the latest financial news:\n"
-    for item in news[:5]:
-        context += f"- {item['headline']} ({item['timestamp']}) - Sentiment: {item.get('sentiment', 'Unknown')}\n"
+    
+    # Create a summary context from the top 10 news items, including impact data
+    context = "Here is the latest financial news and historical analysis:\n"
+    for item in news[:10]:
+        impact_str = ""
+        if item.get('ticker') and item.get('actual_impact') is not None:
+            impact_str = f" [Historical Impact: {item['ticker']} moved {item['actual_impact']}%]"
+        
+        context += f"- {item['headline']} ({item['timestamp']}) - Sentiment: {item.get('sentiment', 'Unknown')}{impact_str}\n"
 
     prompt = f"""You are a helpful financial assistant for MarketPulse AI.
-    Use the following news context to answer the user's question about stock movements or market trends.
-    If the answer isn't in the news, say so, but you can provide general financial knowledge.
+    Use the provided news context to answer the user's question.
+    
+    CRITICAL INSTRUCTION:
+    If the context contains "Historical Impact" data for a company the user is asking about, YOU MUST mentions it.
+    Example: "Based on similar past news, this stock moved X%."
     
     Context:
     {context}

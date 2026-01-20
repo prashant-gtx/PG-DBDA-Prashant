@@ -1,5 +1,469 @@
 [
     {
+        "headline": "Trump’s Arctic ambitions torch the most important US asset",
+        "link": "https://www.moneycontrol.com/news/opinion/trump-s-arctic-ambitions-torch-the-most-important-us-asset-13780952.html",
+        "image_url": null,
+        "timestamp": "2026-01-20 12:32:03",
+        "sentiment": "neutral",
+        "sentiment_score": 0.7844433188438416
+    },
+    {
+        "headline": "Elecon Eng Consolidated December 2025 Net Sales at Rs 551.74 crore, up 4.32% Y-o-Y",
+        "link": "https://www.moneycontrol.com/news/business/earnings/elecon-eng-consolidated-december-2025-net-sales-at-rs-551-74-crore-up-4-32-y-o-y-13780914.html",
+        "image_url": "https://images.moneycontrol.com/static-mcnews/2017/04/shutterstock_310523045-462x435.jpg?impolicy=website&width=135&height=80",
+        "timestamp": "2026-01-20 12:32:03",
+        "sentiment": "positive",
+        "sentiment_score": 0.9518004655838013
+    },
+    {
+        "headline": "TCS Consolidated December 2025 Net Sales at Rs 67,087.00 crore, up 4.87% Y-o-Y",
+        "link": "https://www.moneycontrol.com/news/business/earnings/tcs-consolidated-december-2025-net-sales-at-rs-67087-00-crore-up-4-87-y-o-y-13780925.html",
+        "image_url": null,
+        "timestamp": "2026-01-20 12:27:28",
+        "sentiment": "positive",
+        "sentiment_score": 0.9509326815605164
+    },
+    {
+        "headline": "Indian Renew Consolidated December 2025 Net Sales at Rs 2,130.19 crore, up 25.42% Y-o-Y",
+        "link": "https://www.moneycontrol.com/news/business/earnings/indian-renew-consolidated-december-2025-net-sales-at-rs-2130-19-crore-up-25-42-y-o-y-13780913.html",
+        "image_url": "https://images.moneycontrol.com/static-mcnews/2017/04/shutterstock_310523045-462x435.jpg?impolicy=website&width=135&height=80",
+        "timestamp": "2026-01-20 12:27:28",
+        "sentiment": "positive",
+        "sentiment_score": 0.9492244720458984
+    },
+    {
+        "headline": "Tokyo Plast Consolidated December 2025 Net Sales at Rs 17.14 crore, down 10.02% Y-o-Y",
+        "link": "https://www.moneycontrol.com/news/business/earnings/tokyo-plast-consolidated-december-2025-net-sales-at-rs-17-14-crore-down-10-02-y-o-y-13780940.html",
+        "image_url": "https://images.moneycontrol.com/static-mcnews/2017/04/shutterstock_310523045-462x435.jpg?impolicy=website&width=135&height=80",
+        "timestamp": "2026-01-20 12:27:28",
+        "sentiment": "negative",
+        "sentiment_score": 0.9749216437339783
+    },
+    {
+        "headline": "HCL Tech Consolidated December 2025 Net Sales at Rs 33,872.00 crore, up 13.32% Y-o-Y",
+        "link": "https://www.moneycontrol.com/news/business/earnings/hcl-tech-consolidated-december-2025-net-sales-at-rs-33872-00-crore-up-13-32-y-o-y-13780924.html",
+        "image_url": "https://images.moneycontrol.com/static-mcnews/2017/04/shutterstock_310523045-462x435.jpg?impolicy=website&width=135&height=80",
+        "timestamp": "2026-01-20 12:27:28",
+        "sentiment": "positive",
+        "sentiment_score": 0.9515178203582764
+    },
+    {
+        "headline": "Infosys Consolidated December 2025 Net Sales at Rs 45,479.00 crore, up 8.9% Y-o-Y",
+        "link": "https://www.moneycontrol.com/news/business/earnings/infosys-consolidated-december-2025-net-sales-at-rs-45479-00-crore-up-8-9-y-o-y-13780939.html",
+        "image_url": "https://images.moneycontrol.com/static-mcnews/2017/04/shutterstock_310523045-462x435.jpg?impolicy=website&width=135&height=80",
+        "timestamp": "2026-01-20 12:27:29",
+        "sentiment": "positive",
+        "sentiment_score": 0.9514012932777405
+    },
+    {
+        "headline": "Globus Spirits Consolidated December 2025 Net Sales at Rs 716.74 crore, up 19.05% Y-o-Y",
+        "link": "https://www.moneycontrol.com/news/business/earnings/globus-spirits-consolidated-december-2025-net-sales-at-rs-716-74-crore-up-19-05-y-o-y-13780911.html",
+        "image_url": "https://images.moneycontrol.com/static-mcnews/2017/04/shutterstock_310523045-462x435.jpg?impolicy=website&width=135&height=80",
+        "timestamp": "2026-01-20 12:27:29",
+        "sentiment": "positive",
+        "sentiment_score": 0.9516028165817261
+    },
+    {
+        "headline": "Gretex Industri Consolidated December 2025 Net Sales at Rs 16.19 crore, up 64.04% Y-o-Y",
+        "link": "https://www.moneycontrol.com/news/business/earnings/gretex-industri-consolidated-december-2025-net-sales-at-rs-16-19-crore-up-64-04-y-o-y-13780922.html",
+        "image_url": "https://images.moneycontrol.com/static-mcnews/2017/04/shutterstock_310523045-462x435.jpg?impolicy=website&width=135&height=80",
+        "timestamp": "2026-01-20 12:27:29",
+        "sentiment": "positive",
+        "sentiment_score": 0.9493610262870789
+    },
+    {
+        "headline": "Tejas Networks Consolidated December 2025 Net Sales at Rs 306.79 crore, down 88.39% Y-o-Y",
+        "link": "https://www.moneycontrol.com/news/business/earnings/tejas-networks-consolidated-december-2025-net-sales-at-rs-306-79-crore-down-88-39-y-o-y-13780910.html",
+        "image_url": "https://images.moneycontrol.com/static-mcnews/2017/04/shutterstock_310523045-462x435.jpg?impolicy=website&width=135&height=80",
+        "timestamp": "2026-01-20 12:27:29",
+        "sentiment": "negative",
+        "sentiment_score": 0.973379373550415
+    },
+    {
+        "headline": "Gretex Corporat Consolidated December 2025 Net Sales at Rs 42.16 crore, down 35.83% Y-o-Y",
+        "link": "https://www.moneycontrol.com/news/business/earnings/gretex-corporat-consolidated-december-2025-net-sales-at-rs-42-16-crore-down-35-83-y-o-y-13780921.html",
+        "image_url": "https://images.moneycontrol.com/static-mcnews/2017/04/shutterstock_310523045-462x435.jpg?impolicy=website&width=135&height=80",
+        "timestamp": "2026-01-20 12:27:29",
+        "sentiment": "negative",
+        "sentiment_score": 0.9737484455108643
+    },
+    {
+        "headline": "Avenue Supermar Consolidated December 2025 Net Sales at Rs 18,100.88 crore, up 13.32% Y-o-Y",
+        "link": "https://www.moneycontrol.com/news/business/earnings/avenue-supermar-consolidated-december-2025-net-sales-at-rs-18100-88-crore-up-13-32-y-o-y-13780920.html",
+        "image_url": "https://images.moneycontrol.com/static-mcnews/2017/04/shutterstock_310523045-462x435.jpg?impolicy=website&width=135&height=80",
+        "timestamp": "2026-01-20 12:27:29",
+        "sentiment": "positive",
+        "sentiment_score": 0.949841320514679
+    },
+    {
+        "headline": "GTPL Hathway Consolidated December 2025 Net Sales at Rs 932.62 crore, up 5.11% Y-o-Y",
+        "link": "https://www.moneycontrol.com/news/business/earnings/gtpl-hathway-consolidated-december-2025-net-sales-at-rs-932-62-crore-up-5-11-y-o-y-13780938.html",
+        "image_url": "https://images.moneycontrol.com/static-mcnews/2017/04/shutterstock_310523045-462x435.jpg?impolicy=website&width=135&height=80",
+        "timestamp": "2026-01-20 12:27:29",
+        "sentiment": "positive",
+        "sentiment_score": 0.9522356986999512
+    },
+    {
+        "headline": "Mishka Exim Consolidated December 2025 Net Sales at Rs 8.02 crore, up 1392.91% Y-o-Y",
+        "link": "https://www.moneycontrol.com/news/business/earnings/mishka-exim-consolidated-december-2025-net-sales-at-rs-8-02-crore-up-1392-91-y-o-y-13780936.html",
+        "image_url": "https://images.moneycontrol.com/static-mcnews/2017/04/shutterstock_310523045-462x435.jpg?impolicy=website&width=135&height=80",
+        "timestamp": "2026-01-20 12:27:29",
+        "sentiment": "positive",
+        "sentiment_score": 0.9380768537521362
+    },
+    {
+        "headline": "Tierra Agrotech Consolidated December 2025 Net Sales at Rs 14.73 crore, up 207.57% Y-o-Y",
+        "link": "https://www.moneycontrol.com/news/business/earnings/tierra-agrotech-consolidated-december-2025-net-sales-at-rs-14-73-crore-up-207-57-y-o-y-13780934.html",
+        "image_url": "https://images.moneycontrol.com/static-mcnews/2017/04/shutterstock_310523045-462x435.jpg?impolicy=website&width=135&height=80",
+        "timestamp": "2026-01-20 12:27:29",
+        "sentiment": "positive",
+        "sentiment_score": 0.9437403678894043
+    },
+    {
+        "headline": "ICICI Prudentia Consolidated December 2025 Net Sales at Rs 22,834.07 crore, up 403.35% Y-o-Y",
+        "link": "https://www.moneycontrol.com/news/business/earnings/icici-prudentia-consolidated-december-2025-net-sales-at-rs-22834-07-crore-up-403-35-y-o-y-13780933.html",
+        "image_url": "https://images.moneycontrol.com/static-mcnews/2017/04/shutterstock_310523045-462x435.jpg?impolicy=website&width=135&height=80",
+        "timestamp": "2026-01-20 12:27:29",
+        "sentiment": "positive",
+        "sentiment_score": 0.9472297430038452
+    },
+    {
+        "headline": "Anand Rathi Consolidated December 2025 Net Sales at Rs 289.62 crore, up 22.18% Y-o-Y",
+        "link": "https://www.moneycontrol.com/news/business/earnings/anand-rathi-consolidated-december-2025-net-sales-at-rs-289-62-crore-up-22-18-y-o-y-13780932.html",
+        "image_url": "https://images.moneycontrol.com/static-mcnews/2017/04/shutterstock_310523045-462x435.jpg?impolicy=website&width=135&height=80",
+        "timestamp": "2026-01-20 12:27:29",
+        "sentiment": "positive",
+        "sentiment_score": 0.9516990184783936
+    },
+    {
+        "headline": "Indo Thai Secu Consolidated December 2025 Net Sales at Rs 27.71 crore, up 400.62% Y-o-Y",
+        "link": "https://www.moneycontrol.com/news/business/earnings/indo-thai-secu-consolidated-december-2025-net-sales-at-rs-27-71-crore-up-400-62-y-o-y-13780930.html",
+        "image_url": "https://images.moneycontrol.com/static-mcnews/2017/04/shutterstock_310523045-462x435.jpg?impolicy=website&width=135&height=80",
+        "timestamp": "2026-01-20 12:27:29",
+        "sentiment": "positive",
+        "sentiment_score": 0.9477635622024536
+    },
+    {
+        "headline": "Integra Essenti Consolidated December 2025 Net Sales at Rs 140.05 crore, up 12.38% Y-o-Y",
+        "link": "https://www.moneycontrol.com/news/business/earnings/integra-essenti-consolidated-december-2025-net-sales-at-rs-140-05-crore-up-12-38-y-o-y-13780916.html",
+        "image_url": "https://images.moneycontrol.com/static-mcnews/2017/04/shutterstock_310523045-462x435.jpg?impolicy=website&width=135&height=80",
+        "timestamp": "2026-01-20 12:27:29",
+        "sentiment": "positive",
+        "sentiment_score": 0.949295699596405
+    },
+    {
+        "headline": "Oriental Hotels Consolidated December 2025 Net Sales at Rs 139.25 crore, up 14.23% Y-o-Y",
+        "link": "https://www.moneycontrol.com/news/business/earnings/oriental-hotels-consolidated-december-2025-net-sales-at-rs-139-25-crore-up-14-23-y-o-y-13780929.html",
+        "image_url": "https://images.moneycontrol.com/static-mcnews/2017/04/shutterstock_310523045-462x435.jpg?impolicy=website&width=135&height=80",
+        "timestamp": "2026-01-20 12:27:29",
+        "sentiment": "positive",
+        "sentiment_score": 0.9471098780632019
+    },
+    {
+        "headline": "OK Play Consolidated December 2025 Net Sales at Rs 51.82 crore, up 57.95% Y-o-Y",
+        "link": "https://www.moneycontrol.com/news/business/earnings/ok-play-consolidated-december-2025-net-sales-at-rs-51-82-crore-up-57-95-y-o-y-13780928.html",
+        "image_url": "https://images.moneycontrol.com/static-mcnews/2017/04/shutterstock_310523045-462x435.jpg?impolicy=website&width=135&height=80",
+        "timestamp": "2026-01-20 12:27:29",
+        "sentiment": "positive",
+        "sentiment_score": 0.9504900574684143
+    },
+    {
+        "headline": "Intense Tech Consolidated December 2025 Net Sales at Rs 33.30 crore, up 0.12% Y-o-Y",
+        "link": "https://www.moneycontrol.com/news/business/earnings/intense-tech-consolidated-december-2025-net-sales-at-rs-33-30-crore-up-0-12-y-o-y-13780927.html",
+        "image_url": "https://images.moneycontrol.com/static-mcnews/2017/04/shutterstock_310523045-462x435.jpg?impolicy=website&width=135&height=80",
+        "timestamp": "2026-01-20 12:27:29",
+        "sentiment": "positive",
+        "sentiment_score": 0.953053891658783
+    },
+    {
+        "headline": "Wall Street futures decline up to 1.1% amid Trump's tariff threats over Greenland",
+        "link": "https://www.moneycontrol.com/news/business/markets/wall-street-futures-decline-up-to-1-1-amid-trump-s-tariff-threats-over-greenland-13780731.html",
+        "image_url": null,
+        "timestamp": "2026-01-20 12:09:20",
+        "sentiment": "negative",
+        "sentiment_score": 0.959307849407196
+    },
+    {
+        "headline": "Government push ends 10-minute delivery, signals gig worker protection",
+        "link": "https://www.moneycontrol.com/news/opinion/government-push-ends-10-minute-delivery-signals-gig-worker-protection-13780633.html",
+        "image_url": "https://images.moneycontrol.com/static-mcnews/2026/01/20260102064154_gig-workers-770x433.png?impolicy=website&width=135&height=80",
+        "timestamp": "2026-01-20 12:09:20",
+        "sentiment": "negative",
+        "sentiment_score": 0.8294064998626709
+    },
+    {
+        "headline": "Silver ETFs soar up to 7% to record highs as precious metal's March futures cross Rs 3.18 lakh/kg: Should you buy now?",
+        "link": "https://www.moneycontrol.com/news/business/markets/silver-etfs-soar-up-to-7-to-record-highs-as-precious-metal-s-march-futures-cross-rs-3-18-lakh-kg-should-you-buy-now-13780825.html",
+        "image_url": null,
+        "timestamp": "2026-01-20 11:59:58",
+        "sentiment": "positive",
+        "sentiment_score": 0.799848735332489
+    },
+    {
+        "headline": "Canada's China EV Deal: A Pacific pivot that splinters Trump's Hemisphere strategy",
+        "link": "https://www.moneycontrol.com/news/opinion/canada-s-china-ev-deal-a-pacific-pivot-that-splinters-trump-s-hemisphere-strategy-13780741.html",
+        "image_url": "https://images.moneycontrol.com/static-mcnews/2021/12/EV-charging-770x433.jpg?impolicy=website&width=135&height=80",
+        "timestamp": "2026-01-20 11:59:58",
+        "sentiment": "negative",
+        "sentiment_score": 0.6257689595222473
+    },
+    {
+        "headline": "Chinese funds keener on India investments as geo-political tensions between countries ease",
+        "link": "https://www.moneycontrol.com/news/business/chinese-funds-keener-on-india-investments-as-geo-political-tensions-between-the-countries-ease-13780815.html",
+        "image_url": "https://images.moneycontrol.com/static-mcnews/2026/01/20260117133200_indiachinanewpic-770x433.png?impolicy=website&width=135&height=80",
+        "timestamp": "2026-01-20 11:59:58",
+        "sentiment": "positive",
+        "sentiment_score": 0.5019363760948181
+    },
+    {
+        "headline": "Budget 2026: Metropolitan Stock Exchange of India to be open for trading on February 1",
+        "link": "https://www.moneycontrol.com/news/business/markets/budget-2026-metropolitan-stock-exchange-of-india-to-be-open-for-trading-on-february-1-13780811.html",
+        "image_url": null,
+        "timestamp": "2026-01-20 11:54:02",
+        "sentiment": "neutral",
+        "sentiment_score": 0.9462354183197021
+    },
+    {
+        "headline": "Wonder Home Finance raises Rs 500 crore from Growtheum Capital Partners",
+        "link": "https://www.moneycontrol.com/news/business/wonder-home-finance-raises-rs-500-crore-from-growtheum-capital-partners-13780762.html",
+        "image_url": null,
+        "timestamp": "2026-01-20 11:49:32",
+        "sentiment": "positive",
+        "sentiment_score": 0.5676872134208679
+    },
+    {
+        "headline": "Beyond the headlines: IMF report reveals stark divergence between gloom narrative and steady growth",
+        "link": "https://www.moneycontrol.com/news/opinion/beyond-the-headlines-imf-report-reveals-stark-divergence-between-gloom-narrative-and-steady-growth-13780736.html",
+        "image_url": null,
+        "timestamp": "2026-01-20 11:44:55",
+        "sentiment": "negative",
+        "sentiment_score": 0.5354799032211304
+    },
+    {
+        "headline": "Centre stitches $1-bn package for footwear manufacturing to soften tariff blow: Report",
+        "link": "https://www.moneycontrol.com/news/india/centre-stitches-1-bn-package-for-footwear-manufacturing-to-soften-tariff-blow-report-13780742.html",
+        "image_url": "https://images.moneycontrol.com/static-mcnews/2024/09/20240930070159_shoess-770x433.jpg?impolicy=website&width=135&height=80",
+        "timestamp": "2026-01-20 11:44:55",
+        "sentiment": "positive",
+        "sentiment_score": 0.8867390155792236
+    },
+    {
+        "headline": "Accumulate Wipro; target of Rs 272: Deven Choksey",
+        "link": "https://www.moneycontrol.com/news/business/stocks/accumulate-wipro-target-of-rs-272-deven-choksey-13780773.html",
+        "image_url": null,
+        "timestamp": "2026-01-20 11:40:18",
+        "sentiment": "neutral",
+        "sentiment_score": 0.9305964112281799
+    },
+    {
+        "headline": "Accumulate Tech Mahindra; target of Rs 1805: Deven Choksey",
+        "link": "https://www.moneycontrol.com/news/business/stocks/accumulate-tech-mahindra-target-of-rs-1805-deven-choksey-13780760.html",
+        "image_url": null,
+        "timestamp": "2026-01-20 11:35:58",
+        "sentiment": "neutral",
+        "sentiment_score": 0.9384607672691345
+    },
+    {
+        "headline": "Electric vehicle prices in India likely to rise as China cuts key incentive: Report",
+        "link": "https://www.moneycontrol.com/automobile/electric-vehicle-prices-in-india-likely-to-rise-as-china-cuts-key-incentive-report-article-13780380.html",
+        "image_url": null,
+        "timestamp": "2026-01-20 11:31:47",
+        "sentiment": "positive",
+        "sentiment_score": 0.6713788509368896
+    },
+    {
+        "headline": "Buy LTIMindtree; target of Rs 7375: Anand Rathi",
+        "link": "https://www.moneycontrol.com/news/business/stocks/buy-ltimindtree-target-of-rs-7375-anand-rathi-13780724.html",
+        "image_url": "https://images.moneycontrol.com/static-mcnews/2025/11/20251117070502_Buy1.jpg?impolicy=website&width=135&height=80",
+        "timestamp": "2026-01-20 11:31:47",
+        "sentiment": "neutral",
+        "sentiment_score": 0.9264933466911316
+    },
+    {
+        "headline": "Strong market debut: Avana Electrosystems shares list at 31% premium to SME IPO price, beat GMP estimates",
+        "link": "https://www.moneycontrol.com/news/business/ipo/strong-market-debut-avana-electrosystems-shares-list-at-31-premium-to-sme-ipo-price-beat-gmp-estimates-13780663.html",
+        "image_url": "https://images.moneycontrol.com/static-mcnews/2026/01/20260119015440_IPO-new-main-photo-2025-770x433.jpg?impolicy=website&width=135&height=80",
+        "timestamp": "2026-01-20 11:31:47",
+        "sentiment": "positive",
+        "sentiment_score": 0.944451630115509
+    },
+    {
+        "headline": "Buy JK Cement; target of Rs 7200: Choice Institutional Equities",
+        "link": "https://www.moneycontrol.com/news/business/stocks/buy-jk-cement-target-of-rs-7200-choice-institutional-equities-13780624.html",
+        "image_url": "https://images.moneycontrol.com/static-mcnews/2025/11/20251118070809_Buy_1280x720_3-770x433.png?impolicy=website&width=135&height=80",
+        "timestamp": "2026-01-20 11:31:47",
+        "sentiment": "positive",
+        "sentiment_score": 0.5212109088897705
+    },
+    {
+        "headline": "Ola Electric shares extend losses to 10th session, fall 6% after CFO resigns",
+        "link": "https://www.moneycontrol.com/news/business/markets/ola-electric-shares-extend-losses-to-10th-session-fall-6-after-cfo-resigns-13780637.html",
+        "image_url": "https://images.moneycontrol.com/static-mcnews/2025/08/20250826061819_ola-electric3-770x433.jpg?impolicy=website&width=135&height=80",
+        "timestamp": "2026-01-20 11:31:47",
+        "sentiment": "negative",
+        "sentiment_score": 0.965319037437439
+    },
+    {
+        "headline": "OPINION | India’s alcobev imports face tariff reckoning in Budget 2026",
+        "link": "https://www.moneycontrol.com/news/opinion/india-s-alcobev-imports-face-tariff-reckoning-in-budget-2026-13780302.html",
+        "image_url": "https://images.moneycontrol.com/static-mcnews/2025/10/20251009124611_Alcobev-770x433.jpg?impolicy=website&width=135&height=80",
+        "timestamp": "2026-01-20 11:31:47",
+        "sentiment": "negative",
+        "sentiment_score": 0.8236202597618103
+    },
+    {
+        "headline": "Tips Music Standalone December 2025 Net Sales at Rs 94.29 crore, up 21.4% Y-o-Y",
+        "link": "https://www.moneycontrol.com/news/business/earnings/tips-music-standalone-december-2025-net-sales-at-rs-94-29-crore-up-21-4-y-o-y-13780616.html",
+        "image_url": "https://images.moneycontrol.com/static-mcnews/2017/04/shutterstock_310523045-462x435.jpg?impolicy=website&width=135&height=80",
+        "timestamp": "2026-01-20 11:31:47",
+        "sentiment": "positive",
+        "sentiment_score": 0.95103919506073
+    },
+    {
+        "headline": "Hathway Cable Standalone December 2025 Net Sales at Rs 144.71 crore, down 3.52% Y-o-Y",
+        "link": "https://www.moneycontrol.com/news/business/earnings/hathway-cable-standalone-december-2025-net-sales-at-rs-144-71-crore-down-3-52-y-o-y-13780615.html",
+        "image_url": "https://images.moneycontrol.com/static-mcnews/2017/04/shutterstock_310523045-462x435.jpg?impolicy=website&width=135&height=80",
+        "timestamp": "2026-01-20 11:31:47",
+        "sentiment": "negative",
+        "sentiment_score": 0.9735339283943176
+    },
+    {
+        "headline": "Nitin Fire Prot Standalone December 2025 Net Sales at Rs 6.53 crore, up 9.79% Y-o-Y",
+        "link": "https://www.moneycontrol.com/news/business/earnings/nitin-fire-prot-standalone-december-2025-net-sales-at-rs-6-53-crore-up-9-79-y-o-y-13780614.html",
+        "image_url": "https://images.moneycontrol.com/static-mcnews/2017/04/shutterstock_310523045-462x435.jpg?impolicy=website&width=135&height=80",
+        "timestamp": "2026-01-20 11:31:47",
+        "sentiment": "positive",
+        "sentiment_score": 0.949492335319519
+    },
+    {
+        "headline": "Jindal Saw Standalone December 2025 Net Sales at Rs 4,129.47 crore, down 7.69% Y-o-Y",
+        "link": "https://www.moneycontrol.com/news/business/earnings/jindal-saw-standalone-december-2025-net-sales-at-rs-4129-47-crore-down-7-69-y-o-y-13780612.html",
+        "image_url": "https://images.moneycontrol.com/static-mcnews/2017/04/shutterstock_310523045-462x435.jpg?impolicy=website&width=135&height=80",
+        "timestamp": "2026-01-20 11:31:47",
+        "sentiment": "negative",
+        "sentiment_score": 0.9749554395675659
+    },
+    {
+        "headline": "Mangalam World Standalone December 2025 Net Sales at Rs 350.19 crore, up 29.8% Y-o-Y",
+        "link": "https://www.moneycontrol.com/news/business/earnings/mangalam-world-standalone-december-2025-net-sales-at-rs-350-19-crore-up-29-8-y-o-y-13780611.html",
+        "image_url": "https://images.moneycontrol.com/static-mcnews/2017/04/shutterstock_310523045-462x435.jpg?impolicy=website&width=135&height=80",
+        "timestamp": "2026-01-20 11:31:47",
+        "sentiment": "positive",
+        "sentiment_score": 0.9514471888542175
+    },
+    {
+        "headline": "Sensex down 400 pts, Nifty near 25,450: Weak global cues, 8 other key factors behind market decline",
+        "link": "https://www.moneycontrol.com/news/business/markets/sensex-down-300-pts-nifty-below-25-500-weak-global-cues-8-other-key-factors-behind-market-decline-13780273.html",
+        "image_url": "https://images.moneycontrol.com/static-mcnews/2026/01/20260117023100_Sensex_nifty_market_down_Sensex-770x433.jpg?impolicy=website&width=135&height=80",
+        "timestamp": "2026-01-20 11:31:47",
+        "sentiment": "negative",
+        "sentiment_score": 0.9565961956977844
+    },
+    {
+        "headline": "Bansal Wire Ind Standalone December 2025 Net Sales at Rs 984.13 crore, up 5.9% Y-o-Y",
+        "link": "https://www.moneycontrol.com/news/business/earnings/bansal-wire-ind-standalone-december-2025-net-sales-at-rs-984-13-crore-up-5-9-y-o-y-13780608.html",
+        "image_url": "https://images.moneycontrol.com/static-mcnews/2017/04/shutterstock_310523045-462x435.jpg?impolicy=website&width=135&height=80",
+        "timestamp": "2026-01-20 11:31:47",
+        "sentiment": "positive",
+        "sentiment_score": 0.950598418712616
+    },
+    {
+        "headline": "Rudra Global Standalone December 2025 Net Sales at Rs 158.59 crore, up 6.62% Y-o-Y",
+        "link": "https://www.moneycontrol.com/news/business/earnings/rudra-global-standalone-december-2025-net-sales-at-rs-158-59-crore-up-6-62-y-o-y-13780607.html",
+        "image_url": "https://images.moneycontrol.com/static-mcnews/2017/04/shutterstock_310523045-462x435.jpg?impolicy=website&width=135&height=80",
+        "timestamp": "2026-01-20 11:31:47",
+        "sentiment": "positive",
+        "sentiment_score": 0.9517146348953247
+    },
+    {
+        "headline": "Jayatma Enterpr Standalone December 2025 Net Sales at Rs 0.11 crore, down 33.29% Y-o-Y",
+        "link": "https://www.moneycontrol.com/news/business/earnings/jayatma-enterpr-standalone-december-2025-net-sales-at-rs-0-11-crore-down-33-29-y-o-y-13780606.html",
+        "image_url": "https://images.moneycontrol.com/static-mcnews/2017/04/shutterstock_310523045-462x435.jpg?impolicy=website&width=135&height=80",
+        "timestamp": "2026-01-20 11:31:47",
+        "sentiment": "negative",
+        "sentiment_score": 0.9732326865196228
+    },
+    {
+        "headline": "Damodar Ind Standalone December 2025 Net Sales at Rs 93.29 crore, down 22.43% Y-o-Y",
+        "link": "https://www.moneycontrol.com/news/business/earnings/damodar-ind-standalone-december-2025-net-sales-at-rs-93-29-crore-down-22-43-y-o-y-13780605.html",
+        "image_url": "https://images.moneycontrol.com/static-mcnews/2017/04/shutterstock_310523045-462x435.jpg?impolicy=website&width=135&height=80",
+        "timestamp": "2026-01-20 11:31:47",
+        "sentiment": "negative",
+        "sentiment_score": 0.9742932915687561
+    },
+    {
+        "headline": "Sai Silks Standalone December 2025 Net Sales at Rs 411.25 crore, down 8.32% Y-o-Y",
+        "link": "https://www.moneycontrol.com/news/business/earnings/sai-silks-standalone-december-2025-net-sales-at-rs-411-25-crore-down-8-32-y-o-y-13780604.html",
+        "image_url": "https://images.moneycontrol.com/static-mcnews/2017/04/shutterstock_310523045-462x435.jpg?impolicy=website&width=135&height=80",
+        "timestamp": "2026-01-20 11:31:47",
+        "sentiment": "negative",
+        "sentiment_score": 0.9743049740791321
+    },
+    {
+        "headline": "Oswal Yarns Standalone December 2025 Net Sales at Rs 0.41 crore, down 42.96% Y-o-Y",
+        "link": "https://www.moneycontrol.com/news/business/earnings/oswal-yarns-standalone-december-2025-net-sales-at-rs-0-41-crore-down-42-96-y-o-y-13780603.html",
+        "image_url": "https://images.moneycontrol.com/static-mcnews/2017/04/shutterstock_310523045-462x435.jpg?impolicy=website&width=135&height=80",
+        "timestamp": "2026-01-20 11:31:47",
+        "sentiment": "negative",
+        "sentiment_score": 0.9741898775100708
+    },
+    {
+        "headline": "Meyer Apparel Standalone December 2025 Net Sales at Rs 0.01 crore, down 97.26% Y-o-Y",
+        "link": "https://www.moneycontrol.com/news/business/earnings/meyer-apparel-standalone-december-2025-net-sales-at-rs-0-01-crore-down-97-26-y-o-y-13780602.html",
+        "image_url": "https://images.moneycontrol.com/static-mcnews/2017/04/shutterstock_310523045-462x435.jpg?impolicy=website&width=135&height=80",
+        "timestamp": "2026-01-20 11:31:47",
+        "sentiment": "negative",
+        "sentiment_score": 0.9731146097183228
+    },
+    {
+        "headline": "Amal Standalone December 2025 Net Sales at Rs 22.01 crore, up 36.46% Y-o-Y",
+        "link": "https://www.moneycontrol.com/news/business/earnings/amal-standalone-december-2025-net-sales-at-rs-22-01-crore-up-36-46-y-o-y-13780601.html",
+        "image_url": "https://images.moneycontrol.com/static-mcnews/2017/04/shutterstock_310523045-462x435.jpg?impolicy=website&width=135&height=80",
+        "timestamp": "2026-01-20 11:31:47",
+        "sentiment": "positive",
+        "sentiment_score": 0.9441741704940796
+    },
+    {
+        "headline": "Lakhotia Poly Standalone December 2025 Net Sales at Rs 7.57 crore, down 69.27% Y-o-Y",
+        "link": "https://www.moneycontrol.com/news/business/earnings/lakhotia-poly-standalone-december-2025-net-sales-at-rs-7-57-crore-down-69-27-y-o-y-13780599.html",
+        "image_url": "https://images.moneycontrol.com/static-mcnews/2017/04/shutterstock_310523045-462x435.jpg?impolicy=website&width=135&height=80",
+        "timestamp": "2026-01-20 11:31:47",
+        "sentiment": "negative",
+        "sentiment_score": 0.9734480977058411
+    },
+    {
+        "headline": "Shadowfax IPO subscribed 12% on Day 1 so far, analysts highlight long-term potential: Check latest GMP",
+        "link": "https://www.moneycontrol.com/news/business/ipo/shadowfax-ipo-subscribed-4-on-day-1-so-far-analysts-highlight-long-term-potential-despite-gmp-drop-13780561.html",
+        "image_url": "https://images.moneycontrol.com/static-mcnews/2026/01/20260120055317_Shadowfax-IPO-770x433.jpg?impolicy=website&width=135&height=80",
+        "timestamp": "2026-01-20 11:31:47",
+        "sentiment": "positive",
+        "sentiment_score": 0.8284944295883179
+    },
+    {
+        "headline": "BHEL shares fall 4% as brokerages say Q3 gross margins drag on earnings",
+        "link": "https://www.moneycontrol.com/news/business/markets/bhel-shares-fall-4-as-brokerages-say-q3-gross-margins-drag-on-earnings-13780532.html",
+        "image_url": "https://images.moneycontrol.com/static-mcnews/2025/02/20250211121330_bhel-770x433.jpg?impolicy=website&width=135&height=80",
+        "timestamp": "2026-01-20 11:31:47",
+        "sentiment": "negative",
+        "sentiment_score": 0.9700102806091309
+    },
+    {
+        "headline": "LTIMindtree shares crash 6% after Q3 results; brokerages flag margin risks, near-term earnings concerns",
+        "link": "https://www.moneycontrol.com/news/business/earnings/ltimindtree-shares-crash-6-after-q3-results-brokerages-flag-margin-risks-near-term-earnings-visibility-13780450.html",
+        "image_url": "https://images.moneycontrol.com/static-mcnews/2023/09/LTIMindtree-770x431.jpg?impolicy=website&width=135&height=80",
+        "timestamp": "2026-01-20 11:31:47",
+        "sentiment": "negative",
+        "sentiment_score": 0.9725604057312012
+    },
+    {
+        "headline": "Anand Rathi Standalone December 2025 Net Sales at Rs 248.10 crore, up 21.89% Y-o-Y",
+        "link": "https://www.moneycontrol.com/news/business/earnings/anand-rathi-standalone-december-2025-net-sales-at-rs-248-10-crore-up-21-89-y-o-y-13780521.html",
+        "image_url": "https://images.moneycontrol.com/static-mcnews/2017/04/shutterstock_310523045-462x435.jpg?impolicy=website&width=135&height=80",
+        "timestamp": "2026-01-20 11:31:48",
+        "sentiment": "positive",
+        "sentiment_score": 0.9477455615997314
+    },
+    {
         "headline": "Budget 2026 Expectations Live: Nirmala Sitharaman's ninth Budget may push unified ITR amid New Income-tax Act overhaul",
         "link": "https://www.moneycontrol.com/news/business/budget-2026-expectations-live-updates-income-tax-slabs-joint-taxation-married-couples-middle-class-nirmala-sitharaman-january-20-liveblog-13780425.html",
         "image_url": "https://images.moneycontrol.com/static-mcnews/2025/01/20250131163412_8-sitharaman-budget-day-saree-770x433.jpg?impolicy=website&width=135&height=80",
