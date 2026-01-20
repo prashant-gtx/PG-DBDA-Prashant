@@ -1,5 +1,69 @@
 [
     {
+        "headline": "From capex to tax reform: 5 key things to expect from Budget 2026",
+        "link": "https://www.moneycontrol.com/news/business/from-capex-to-tax-reform-5-key-things-to-expect-from-budget-2026-13781003.html",
+        "image_url": null,
+        "timestamp": "2026-01-20 12:50:36",
+        "sentiment": "neutral",
+        "sentiment_score": 0.8796079158782959
+    },
+    {
+        "headline": "SpiceJet to launch non-stop Ahmedabad-Sharjah flights from February 5 - Key details inside",
+        "link": "https://www.moneycontrol.com/news/business/spicejet-to-launch-non-stop-ahmedabad-sharjah-flights-from-february-5-key-details-inside-13781031.html",
+        "image_url": "https://images.moneycontrol.com/static-mcnews/2025/08/20250813042600_spicejet-770x433.jpg?impolicy=website&width=135&height=80",
+        "timestamp": "2026-01-20 12:50:36",
+        "sentiment": "neutral",
+        "sentiment_score": 0.9335667490959167
+    },
+    {
+        "headline": "Accumulate Havells India; target of Rs 1634: Prabhudas Lilladher",
+        "link": "https://www.moneycontrol.com/news/business/stocks/accumulate-havells-india-target-of-rs-1634-prabhudas-lilladher-13780895.html",
+        "image_url": null,
+        "timestamp": "2026-01-20 12:45:37",
+        "sentiment": "neutral",
+        "sentiment_score": 0.9177735447883606
+    },
+    {
+        "headline": "Accumulate JK Cement; target of Rs 6199: Prabhudas Lilladher",
+        "link": "https://www.moneycontrol.com/news/business/stocks/accumulate-jk-cement-target-of-rs-6199-prabhudas-lilladher-13780889.html",
+        "image_url": "https://images.moneycontrol.com/static-mcnews/2023/08/Accumulate_1280x720_3-770x433.png?impolicy=website&width=135&height=80",
+        "timestamp": "2026-01-20 12:45:38",
+        "sentiment": "neutral",
+        "sentiment_score": 0.9211119413375854
+    },
+    {
+        "headline": "Accumulate Can Fin Homes; target of Rs 1015: Prabhudas Lilladher",
+        "link": "https://www.moneycontrol.com/news/business/stocks/accumulate-can-fin-homes-target-of-rs-1015-prabhudas-lilladher-13780888.html",
+        "image_url": "https://images.moneycontrol.com/static-mcnews/2024/10/20241018094636_Accumulate_1280x720_3-770x433.png?impolicy=website&width=135&height=80",
+        "timestamp": "2026-01-20 12:45:38",
+        "sentiment": "neutral",
+        "sentiment_score": 0.8817762136459351
+    },
+    {
+        "headline": "Accumulate Mangalore Refinery and Petrochemicals; target of Rs 162: Prabhudas Lilladher",
+        "link": "https://www.moneycontrol.com/news/business/stocks/accumulate-mangalore-refinery-and-petrochemicals-target-of-rs-162-prabhudas-lilladher-13780886.html",
+        "image_url": "https://images.moneycontrol.com/static-mcnews/2024/10/20241021083731_Accumulate_1280x720_4-770x433.png?impolicy=website&width=135&height=80",
+        "timestamp": "2026-01-20 12:45:38",
+        "sentiment": "neutral",
+        "sentiment_score": 0.9211210608482361
+    },
+    {
+        "headline": "Oberoi Realty stock falls 7% over weak Q3 results; real estate index falls 12% in 10 sessions: What lies ahead?",
+        "link": "https://www.moneycontrol.com/news/business/markets/oberoi-realty-stock-falls-7-over-weak-q3-results-real-estate-index-falls-12-in-10-sessions-what-lies-ahead-13780917.html",
+        "image_url": "https://images.moneycontrol.com/static-mcnews/2026/01/20260119072148_real-estate-shutterstock6-770x433.jpg?impolicy=website&width=135&height=80",
+        "timestamp": "2026-01-20 12:45:38",
+        "sentiment": "negative",
+        "sentiment_score": 0.9385254383087158
+    },
+    {
+        "headline": "Accumulate Tech Mahindra; target of Rs 1860: Prabhudas Lilladher",
+        "link": "https://www.moneycontrol.com/news/business/stocks/accumulate-tech-mahindra-target-of-rs-1860-prabhudas-lilladher-13780885.html",
+        "image_url": "https://images.moneycontrol.com/static-mcnews/2024/10/20241021084553_Accumulate_1280x720_3-770x433.png?impolicy=website&width=135&height=80",
+        "timestamp": "2026-01-20 12:45:38",
+        "sentiment": "neutral",
+        "sentiment_score": 0.9369993209838867
+    },
+    {
         "headline": "Trump’s Arctic ambitions torch the most important US asset",
         "link": "https://www.moneycontrol.com/news/opinion/trump-s-arctic-ambitions-torch-the-most-important-us-asset-13780952.html",
         "image_url": null,

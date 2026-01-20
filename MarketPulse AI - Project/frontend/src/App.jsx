@@ -11,6 +11,12 @@ function App() {
   const [chatHistory, setChatHistory] = useState([]);
   const [loadingChat, setLoadingChat] = useState(false);
   const [isChatOpen, setIsChatOpen] = useState(false);
+
+  // Pagination & Filter State
+  const [currentPage, setCurrentPage] = useState(1);
+  const [itemsPerPage] = useState(24);
+  const [dateFilter, setDateFilter] = useState('all'); // all, week, prev_week, month, year
+
   const chatEndRef = useRef(null);
 
   useEffect(() => {
@@ -29,10 +35,6 @@ function App() {
     }
   }, [chatHistory, isChatOpen]);
 
-  // Handle Image Error fallback
-  const handleImageError = (e) => {
-    e.target.style.display = 'none'; // Basic fallback, could replace with placeholder
-  };
 
   const fetchNews = async () => {
     try {
@@ -58,6 +60,8 @@ function App() {
 
     const query = chatQuery;
     setChatQuery("");
+
+    // Add User Message
     setChatHistory(prev => [...prev, { role: 'user', content: query }]);
     setLoadingChat(true);
 
@@ -70,6 +74,35 @@ function App() {
       setLoadingChat(false);
     }
   };
+
+  // Filter Logic
+  const getFilteredNews = () => {
+    const now = new Date();
+    return news.filter(item => {
+      const itemDate = new Date(item.timestamp);
+      const diffTime = Math.abs(now - itemDate);
+      const diffDays = Math.ceil(diffTime / (1000 * 60 * 60 * 24));
+
+      if (dateFilter === 'week') return diffDays <= 7;
+      if (dateFilter === 'prev_week') return diffDays > 7 && diffDays <= 14;
+      if (dateFilter === 'month') return diffDays <= 30;
+      if (dateFilter === 'year') return diffDays <= 365;
+      return true;
+    });
+  };
+
+  // Pagination Logic
+  const filteredNews = getFilteredNews();
+  const totalPages = Math.ceil(filteredNews.length / itemsPerPage);
+  const indexOfLastItem = currentPage * itemsPerPage;
+  const indexOfFirstItem = indexOfLastItem - itemsPerPage;
+  const currentNews = filteredNews.slice(indexOfFirstItem, indexOfLastItem);
+
+  const paginate = (pageNumber) => setCurrentPage(pageNumber);
+
+
+  // Helpers
+  const handleImageError = (e) => { e.target.style.display = 'none'; };
 
   const getSentimentColor = (sentiment) => {
     switch (sentiment?.toLowerCase()) {
@@ -110,8 +143,10 @@ function App() {
               </span>
             </div>
 
+
+
             {/* Market Ticker Pill */}
-            <div className="flex gap-6 items-center bg-black/40 px-6 py-2.5 rounded-xl border border-white/5 box-shadow-inner relative overflow-hidden">
+            <div className="flex gap-6 items-center bg-black/40 px-6 py-2.5 rounded-xl border border-white/5 box-shadow-inner relative overflow-hidden hidden xl:flex">
               <div className="absolute top-0 left-0 w-1 h-full bg-blue-500/20"></div>
               {marketData ? (
                 <>
@@ -146,14 +181,36 @@ function App() {
       {/* Main Content - Scrollable Content Area */}
       <main className="flex-1 container mx-auto px-6 py-4 overflow-hidden flex flex-col relative z-10">
 
+        {/* Date Filters */}
+        <div className="mb-4 flex flex-wrap gap-2 p-1 bg-black/20 rounded-xl border border-white/5 w-fit">
+          {[
+            { id: 'all', label: 'All Time' },
+            { id: 'week', label: 'This Week' },
+            { id: 'prev_week', label: 'Last Week' },
+            { id: 'month', label: 'This Month' },
+            { id: 'year', label: 'This Year' },
+          ].map(filter => (
+            <button
+              key={filter.id}
+              onClick={() => { setDateFilter(filter.id); setCurrentPage(1); }}
+              className={`px-4 py-2 rounded-lg text-xs font-semibold whitespace-nowrap transition-all ${dateFilter === filter.id
+                ? 'bg-blue-600 text-white shadow-lg shadow-blue-500/20'
+                : 'text-gray-400 hover:text-white hover:bg-white/5'
+                }`}
+            >
+              {filter.label}
+            </button>
+          ))}
+        </div>
+
         {/* News Grid */}
-        <div className="flex-1 overflow-y-auto pr-2 pb-24 -mr-2 scrollbar-thin scrollbar-thumb-gray-800 scrollbar-track-transparent">
-          <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-5">
-            {news.length === 0 && Array.from({ length: 9 }).map((_, i) => (
+        <div className="flex-1 overflow-y-auto pr-2 pb-6 -mr-2 scrollbar-thin scrollbar-thumb-gray-800 scrollbar-track-transparent flex flex-col">
+          <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-5 mb-8">
+            {news.length === 0 && Array.from({ length: 6 }).map((_, i) => (
               <div key={i} className="h-64 bg-gray-800/40 rounded-2xl animate-pulse border border-white/5"></div>
             ))}
 
-            {news.map((item, idx) => (
+            {currentNews.map((item, idx) => (
               <div key={idx} className="group bg-gray-900/40 backdrop-blur-md border border-white/10 rounded-2xl p-3 hover:bg-gray-800/60 transition-all duration-300 hover:border-blue-500/30 hover:shadow-2xl hover:shadow-blue-900/20 hover:-translate-y-1 flex flex-col h-full relative overflow-hidden">
 
                 {/* Image Section */}
@@ -177,7 +234,7 @@ function App() {
                     {item.sentiment}
                   </div>
 
-                  {/* Gradient Overlay for Text Readability if needed */}
+                  {/* Gradient Overlay */}
                   <div className="absolute inset-0 bg-gradient-to-t from-gray-900/80 via-transparent to-transparent opacity-60" />
                 </div>
 
@@ -202,6 +259,68 @@ function App() {
               </div>
             ))}
           </div>
+
+          {/* Pagination */}
+          {totalPages > 1 && (
+            <div className="flex justify-center pb-20 pt-4 gap-2">
+              <button
+                onClick={() => paginate(currentPage - 1)}
+                disabled={currentPage === 1}
+                className="px-4 py-2 bg-gray-800 border border-white/10 rounded-lg text-xs font-bold text-gray-400 hover:bg-gray-700 disabled:opacity-50 disabled:cursor-not-allowed transition-all"
+              >
+                Previous
+              </button>
+
+              <div className="flex gap-1">
+                {(() => {
+                  const pages = [];
+                  if (totalPages <= 7) {
+                    for (let i = 1; i <= totalPages; i++) pages.push(i);
+                  } else {
+                    if (currentPage <= 4) {
+                      for (let i = 1; i <= 5; i++) pages.push(i);
+                      pages.push('...');
+                      pages.push(totalPages);
+                    } else if (currentPage >= totalPages - 3) {
+                      pages.push(1);
+                      pages.push('...');
+                      for (let i = totalPages - 4; i <= totalPages; i++) pages.push(i);
+                    } else {
+                      pages.push(1);
+                      pages.push('...');
+                      for (let i = currentPage - 1; i <= currentPage + 1; i++) pages.push(i);
+                      pages.push('...');
+                      pages.push(totalPages);
+                    }
+                  }
+
+                  return pages.map((page, i) => (
+                    <button
+                      key={i}
+                      onClick={() => typeof page === 'number' && paginate(page)}
+                      disabled={typeof page !== 'number'}
+                      className={`w-8 h-8 flex items-center justify-center rounded-lg text-xs font-bold transition-all border ${page === currentPage
+                          ? 'bg-blue-600 border-blue-500 text-white shadow-lg shadow-blue-500/20'
+                          : typeof page === 'number'
+                            ? 'bg-gray-800 border-white/10 text-gray-400 hover:bg-gray-700 hover:text-white'
+                            : 'border-transparent text-gray-500 cursor-default'
+                        }`}
+                    >
+                      {page}
+                    </button>
+                  ));
+                })()}
+              </div>
+
+              <button
+                onClick={() => paginate(currentPage + 1)}
+                disabled={currentPage === totalPages}
+                className="px-4 py-2 bg-gray-800 border border-white/10 rounded-lg text-xs font-bold text-gray-400 hover:bg-gray-700 disabled:opacity-50 disabled:cursor-not-allowed transition-all"
+              >
+                Next
+              </button>
+            </div>
+          )}
         </div>
       </main>
 
@@ -243,7 +362,7 @@ function App() {
                   <h4 className="text-gray-200 font-medium mb-1">How can I help you?</h4>
                   <p className="text-xs text-gray-500 mb-4">Ask about market trends, or try these suggestions:</p>
 
-                  <div className="flex flex-col gap-2 w-full">
+                  <div className="flex flex-col gap-2 w-full px-1">
                     {news.slice(0, 3).map((item, i) => (
                       <button
                         key={i}
